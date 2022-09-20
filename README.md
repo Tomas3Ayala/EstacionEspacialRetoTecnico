@@ -1,6 +1,6 @@
 # EstacionEspacialRetoTecnico
 
-Requisitos para que el programa funcione:
+Requisitos para que el programa funcione (el programa compilado esta en RetoNaves/dist/RetoNaves.jar):
 - Java 1.8
 - Usa una base de datos MySQL, con los siguientes datos:
   -  Una base de datos llamada 'naves', la misma viene incluida en el archivo naves.sql, solo es necesario ejecutar las consultas incluidas en el archivo.
