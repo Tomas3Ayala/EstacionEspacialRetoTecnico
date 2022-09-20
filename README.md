@@ -3,7 +3,7 @@
 Requisitos para que el programa funcione (el programa compilado esta en RetoNaves/dist/RetoNaves.jar):
 - Java 1.8
 - Usa una base de datos MySQL, con los siguientes datos:
-  -  Una base de datos llamada 'naves', la misma viene incluida en el archivo naves.sql, solo es necesario ejecutar las consultas incluidas en el archivo.
+  -  Es necesario tener de antemano una base de datos llamada 'naves', los datos de la misma vienen incluidos en el archivo naves.sql, solo es necesario ejecutar las consultas incluidas en el archivo dentro de esa base de datos.
   -  Un usuario 'user' sin contraseña.
   -  La base utiliza el puerto 3306.
 
