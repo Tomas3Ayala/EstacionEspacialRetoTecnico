@@ -5,7 +5,7 @@ Requisitos para que el programa funcione (el programa compilado esta en RetoNave
 - Usa una base de datos MySQL, con los siguientes datos:
   -  Es necesario tener de antemano una base de datos llamada 'naves', los datos de la misma vienen incluidos en el archivo naves.sql, solo es necesario ejecutar las consultas incluidas en el archivo dentro de esa base de datos.
   -  Un usuario 'user' sin contraseña.
-  -  La base utiliza el puerto 3306.
+  -  La base utiliza el puerto 3306 y se espera que corra en el localhost
 
 Para abrir el proyecto, también son necesarios:
 - Netbeans 8.2 (en la carpeta RetoNaves hay un proyecto de netbeans)
