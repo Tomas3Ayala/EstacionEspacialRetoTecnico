@@ -12,6 +12,7 @@ Para abrir el proyecto, también son necesarios:
 - Usa Java Swing para la interfaces gráficas
 - Connector para conectarse a la base de datos (el archivo de libreria esta incluido en la carpeta libs)
 
+Además, el archivo Naves.svg contiene el DER
 
 
 
